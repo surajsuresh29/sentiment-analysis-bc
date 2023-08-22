@@ -38,4 +38,4 @@ The objective of this project was to delve into the sentiments expressed in the 
 ![Sample Output](https://github.com/surajsuresh29/sentiment-analysis-bc/blob/main/Sample%20Output.png)
 ## Acknowledgements
 
-Special thanks to the BlackCoffer website for providing access to their blog articles, forming the basis of this analysis. Gratitude also extends to the open-source NLP community for their invaluable tools and resources that facilitated this project.
+Special thanks to the [BlackCoffer](https://insights.blackcoffer.com/) website for providing access to their blog articles, forming the basis of this analysis. Gratitude also extends to the open-source NLP community for their invaluable tools and resources that facilitated this project.
